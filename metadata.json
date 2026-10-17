@@ -1,0 +1,6 @@
+{
+  "name": "Atom Simulator",
+  "description": "Interactive atomic physics and chemistry simulator featuring covalent bonding, ionic charges, metallic electron seas, nuclear decay, VSEPR geometries, and rich particle VFX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
